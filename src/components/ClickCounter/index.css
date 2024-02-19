@@ -1,0 +1,37 @@
+.container {
+  background-color: #f1f5f8;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+h1 {
+  font-family: Roboto;
+  font-size: 30px;
+  color: #2d3a35;
+}
+
+p {
+  font-family: Roboto;
+  font-size: 20px;
+  color: #2d3a35;
+}
+
+span {
+  font-family: Roboto;
+  font-size: 40px;
+  color: #c20a72;
+}
+button {
+  font-family: Roboto;
+  font-size: 20px;
+  color: #ffffff;
+  background-color: #007bff;
+}
+
+* {
+  box-sizing: 0px;
+  margin: 0px;
+}
